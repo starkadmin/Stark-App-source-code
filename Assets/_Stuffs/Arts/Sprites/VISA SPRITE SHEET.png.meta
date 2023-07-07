@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: c8690b5b801606042beeee3146f71bce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3828
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a633f09075ab1424fbbd3782a9da7b09
+      internalID: -1780367956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2310
+        width: 1926
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf0134382987524e9a027c261deb229
+      internalID: -599066715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2640
+        width: 409
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a32c771228c5b4b9d173027c72257f
+      internalID: -2018218283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2886
+        width: 506
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae39ba5132c6b64fb5852ce2e31d988
+      internalID: -628672013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1546
+        width: 465
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5d55cc00b1322478874d1995a8537e
+      internalID: 698438887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1546
+        width: 465
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe05f3e214f594ba49713251133a1e
+      internalID: 2126306937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1546
+        width: 466
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039e24aa52bc0543817ac9352735ac7
+      internalID: -532462472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1546
+        width: 466
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b4a8fd03b9bf44b88202d73733328
+      internalID: 810892825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1546
+        width: 466
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb14f76c73bb34cac335f344cb6eee
+      internalID: -677656457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1458
+        width: 4
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f697cd90de4394c9ba754f3e661aa5
+      internalID: 663649205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1157
+        width: 577
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ac82f2b55b35428a3dbfd26823c03
+      internalID: -1559082476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 859
+        width: 478
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecdb8a0d20da5b428891eb2f4442122
+      internalID: 1758294038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 859
+        width: 42
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4036d0084f01b4d89af283511b851d
+      internalID: -1027158126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 859
+        width: 479
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004158e9a2a3ee44877243a548a3de1
+      internalID: -1391171862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 859
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16d258ff6d055547b99872452f41ce8
+      internalID: -1687433633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 859
+        width: 478
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d4fde9b1cbf940a9b4f7a793ab592
+      internalID: -1774561855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 859
+        width: 48
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484cd802140c8c34c9da0f23f8a94719
+      internalID: 1582701958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 859
+        width: 478
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317301cf4e582d42a1ed3238d29aff8
+      internalID: -1968962255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 859
+        width: 42
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1768c5eb514da48b70980d85efb7ea
+      internalID: 495288216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VISA SPRITE SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 859
+        width: 478
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67859b2a2d61f194bb2a7cfcabfb9fbb
+      internalID: -903362335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: efa412ca1e6a50340a60721aa7f1ff4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VISA SPRITE SHEET_14: -532462472
+      VISA SPRITE SHEET_24: -1774561855
+      VISA SPRITE SHEET_28: -903362335
+      VISA SPRITE SHEET_25: 1582701958
+      VISA SPRITE SHEET_9: -1231431249
+      VISA SPRITE SHEET_3: 117294794
+      VISA SPRITE SHEET_17: 565015442
+      VISA SPRITE SHEET_13: -367927546
+      VISA SPRITE SHEET_8: -628672013
+      VISA SPRITE SHEET_7: -41895774
+      VISA SPRITE SHEET_6: -2018218283
+      VISA SPRITE SHEET_11: 698438887
+      VISA SPRITE SHEET_2: -1780367956
+      VISA SPRITE SHEET_26: -1968962255
+      VISA SPRITE SHEET_19: -1559082476
+      VISA SPRITE SHEET_18: 663649205
+      VISA SPRITE SHEET_21: -1027158126
+      VISA SPRITE SHEET_20: 1758294038
+      VISA SPRITE SHEET_22: -1391171862
+      VISA SPRITE SHEET_29: 631838046
+      VISA SPRITE SHEET_15: 810892825
+      VISA SPRITE SHEET_23: -1687433633
+      VISA SPRITE SHEET_12: 2126306937
+      VISA SPRITE SHEET_4: 1239200164
+      VISA SPRITE SHEET_5: -599066715
+      VISA SPRITE SHEET_10: -1873635607
+      VISA SPRITE SHEET_16: -677656457
+      VISA SPRITE SHEET_0: 1882115469
+      VISA SPRITE SHEET_27: 495288216
+      VISA SPRITE SHEET_1: -44925400
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

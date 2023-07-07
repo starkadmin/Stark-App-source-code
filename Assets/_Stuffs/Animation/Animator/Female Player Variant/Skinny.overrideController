@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skinny
+  m_Controller: {fileID: 9100000, guid: 97567a2754fbd094da15e5199658f63e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 806aa23058d079a43821cc343422aa74, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: c8a5ea27add1dbc449e70f99146a4c7d, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: c4e8e552dca3fb84c8afeb73f9ce3a3b, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: ea3430350310ef14fb1ee32d58d81738, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 238fd49ece449e34a9f7f7414ea2aec4, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 35023487b44758541b5fa4a9210696e2, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 8bc4b87ef8b92044ba3aafb39dc24ac1, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: d234bd7a3bec02447a44d1e61af40c07, type: 3}

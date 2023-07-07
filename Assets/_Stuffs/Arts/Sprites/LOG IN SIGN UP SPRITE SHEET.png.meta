@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 8dcc6f99c56405a43bfe0bcc7e122259
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3077
+        width: 660
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8669860b080a419f8ea218a3374e3
+      internalID: 1257095152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3228
+        width: 264
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa45a165a76ce4e86a9c812f45c813
+      internalID: 644920467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 2267
+        width: 1033
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4906390971a6f14abaa8ad30c650eaa
+      internalID: 2101147615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 3059
+        width: 792
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f1a20473bd5241a68146bb59b2add
+      internalID: 679709787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2700
+        width: 173
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e303a036240fa440ab970fe19694c03
+      internalID: -1415091564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2699
+        width: 184
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16231030e4de6434a942f6492fd9ce02
+      internalID: 2058897483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2820
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d405a004bad030439051c893a3c8d52
+      internalID: -2097312599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2699
+        width: 202
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41ce3949c8e674d91cfb20c70bb29a
+      internalID: 1795284121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2464
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798ce0fee0254244aa3b2140304c717
+      internalID: 2130611197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2466
+        width: 636
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e863188c3a1f741a6f23eadf1dbbb5
+      internalID: 390684493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2464
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb972810709cc4ab6c40942c4d796c
+      internalID: 1147674763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2339
+        width: 720
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2d8f901fe5c9445885c5313942a2fc
+      internalID: -1644138099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2355
+        width: 1018
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b8789a84aecc408c7c1ec74a3af07
+      internalID: -1486737282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 503
+        width: 1206
+        height: 1772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943d08a940cf4243a02efbdc13c7d04
+      internalID: -1052887416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 537
+        width: 30
+        height: 1704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf83856321894b458f79ee0112151fb
+      internalID: -203811099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 787
+        width: 16
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0c8515b43b8c43b0dfdb41bfcfb5a
+      internalID: -1783963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1727
+        width: 563
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880283ea045294b4bb19911ee1b9f33a
+      internalID: -412013047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1798
+        width: 948
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f797b9a3fbb4b924ca2ded6ba6c7a190
+      internalID: 560102106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOG IN SIGN UP SPRITE SHEET_30
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1211
+        width: 342
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f465b9cc49f2344946530265e8188f
+      internalID: 2003241347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1b7ed8c40052fe47802c43d7db6ee7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LOG IN SIGN UP SPRITE SHEET_20: 390684493
+      LOG IN SIGN UP SPRITE SHEET_22: -1644138099
+      LOG IN SIGN UP SPRITE SHEET_6: 447237380
+      LOG IN SIGN UP SPRITE SHEET_12: -479274822
+      LOG IN SIGN UP SPRITE SHEET_30: 2003241347
+      LOG IN SIGN UP SPRITE SHEET_17: -2097312599
+      LOG IN SIGN UP SPRITE SHEET_8: 644920467
+      LOG IN SIGN UP SPRITE SHEET_19: 2130611197
+      LOG IN SIGN UP SPRITE SHEET_29: 1004153589
+      LOG IN SIGN UP SPRITE SHEET_26: -1783963
+      LOG IN SIGN UP SPRITE SHEET_25: -203811099
+      LOG IN SIGN UP SPRITE SHEET_23: -1486737282
+      LOG IN SIGN UP SPRITE SHEET_15: -275662021
+      LOG IN SIGN UP SPRITE SHEET_11: -1415091564
+      LOG IN SIGN UP SPRITE SHEET_24: -1052887416
+      LOG IN SIGN UP SPRITE SHEET_31: 598164247
+      LOG IN SIGN UP SPRITE SHEET_7: 1257095152
+      LOG IN SIGN UP SPRITE SHEET_28: 560102106
+      LOG IN SIGN UP SPRITE SHEET_3: -1227331721
+      LOG IN SIGN UP SPRITE SHEET_14: 2058897483
+      LOG IN SIGN UP SPRITE SHEET_5: -862873649
+      LOG IN SIGN UP SPRITE SHEET_10: 679709787
+      LOG IN SIGN UP SPRITE SHEET_0: -1855365988
+      LOG IN SIGN UP SPRITE SHEET_9: 2101147615
+      LOG IN SIGN UP SPRITE SHEET_27: -412013047
+      LOG IN SIGN UP SPRITE SHEET_21: 1147674763
+      LOG IN SIGN UP SPRITE SHEET_13: -1823051940
+      LOG IN SIGN UP SPRITE SHEET_1: -1911573197
+      LOG IN SIGN UP SPRITE SHEET_2: 710794347
+      LOG IN SIGN UP SPRITE SHEET_4: 1855116260
+      LOG IN SIGN UP SPRITE SHEET_18: 1795284121
+      LOG IN SIGN UP SPRITE SHEET_16: -2026091196
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

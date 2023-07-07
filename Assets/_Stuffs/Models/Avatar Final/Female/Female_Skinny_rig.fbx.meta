@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 122b7d7fe1baf7c4cb472944f03bf54b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Brows
+    second: {fileID: 2100000, guid: 42be32d90f54ce349886dd7675d9cdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Default
+    second: {fileID: 2100000, guid: 6375b449f37c6584dad922df716491ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Dila_F_Dila_Stark_Female_Skinny_M_Mouth
+    second: {fileID: 2100000, guid: f53a4a5f542448d409f707db18b6587d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_EyeReflect
+    second: {fileID: 2100000, guid: 967378c076004964d8179cd6ac983f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Eyes
+    second: {fileID: 2100000, guid: cee17b0ef9bf99f4a99feabb98033393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Hair_01
+    second: {fileID: 2100000, guid: da6e0901ce7ef3c4d97dfd2d161bbebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Jacket
+    second: {fileID: 2100000, guid: 3961177a7b1eff741a536c2521edf0ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Mouth
+    second: {fileID: 2100000, guid: de51cbed31e80cf41a07afc52899564d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Pants
+    second: {fileID: 2100000, guid: f4d464cb47938b145bb4f9bdf38afd63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Sando
+    second: {fileID: 2100000, guid: 947fbdafda8fcf042a985a45afb614cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Scalp
+    second: {fileID: 2100000, guid: ae3c6c8081f9c4d49b5f22485c95fa25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Shoes_01
+    second: {fileID: 2100000, guid: d72c4b895495b584a910e791c557bf7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Shoes_02
+    second: {fileID: 2100000, guid: f1df1feb04552114fa64f4518e755d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Shoes_03
+    second: {fileID: 2100000, guid: 2607a8a2bd50b4b42a36a91235a44bc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Short
+    second: {fileID: 2100000, guid: 69198534994c8d74bb980e4b1dfbb5a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Skin
+    second: {fileID: 2100000, guid: f84739f292948984983b0263e533e5ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Skirt
+    second: {fileID: 2100000, guid: 0349374412da99943a35ac6e89d9a850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Tshirt
+    second: {fileID: 2100000, guid: d99b99ef8e4e8e148937562d21b0e528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: N_Hair_F_Hair_02
+    second: {fileID: 2100000, guid: 1148485dc9fe94b4fbecd130d64a86f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: N_Hair_Hair_03_Normal_Skinny_defaultMat1
+    second: {fileID: 2100000, guid: 02c5c8029b0fea44b9af0aeebe9bb441, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Tshirt_Base_color
+    second: {fileID: 2800000, guid: 87b7715c71bb235459d6cb1c54955a80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Tshirt_Normal_DirectX
+    second: {fileID: 2800000, guid: cb914d56d6909724e923e88fc2eca4d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stark_Female_Normal_T_Mouth_BaseMap
+    second: {fileID: 2800000, guid: fbb425077783ab447914b20a8e9c6023, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stark_Female_Normal_T_Mouth_Normal
+    second: {fileID: 2800000, guid: 654d76f44e2e35043ad8ee676af5ec0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_EyesReflection_BaseMap
+    second: {fileID: 2800000, guid: a5a7a907fd24ada4e88f27de9d5cacd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Eyes_Black_BaseMap
+    second: {fileID: 2800000, guid: ceba1b01a15dd014295bf86007d9464f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleHair_02_Basemap
+    second: {fileID: 2800000, guid: f78c863efcde5b64581199d11a62ef68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleJacket_Normal
+    second: {fileID: 2800000, guid: 72195e8d653dc394394ee5e2505d686b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleJacket_White_BaseMap
+    second: {fileID: 2800000, guid: a35ad33a0094c244c8d97bb676b16c6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleShoe_Flat_BaseMap
+    second: {fileID: 2800000, guid: 5af00c9250d7de94aa5b8b4272cc683a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleShoe_Flat_Normal
+    second: {fileID: 2800000, guid: 0527f3e53da4ef74ca46b54539112f5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleShorts_Grey_BaseMap
+    second: {fileID: 2800000, guid: 4087d76ea164e65419f87c6bb30c9857, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleShorts_Normal
+    second: {fileID: 2800000, guid: 7b0d544667559b646920cbfe8aea3a08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleSkin_Normal_BaseMap
+    second: {fileID: 2800000, guid: 0e8eb40f504468e43967ea9415122d46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleSkin_Normal_Normal
+    second: {fileID: 2800000, guid: fbd18f64dbf5665479dba7a496767f83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleSkirt_02_Normal
+    second: {fileID: 2800000, guid: 9655f239fc776fb44a3fa428c116750d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleSkirt_02_Red_BaseMap
+    second: {fileID: 2800000, guid: c616fd53b7bf0c741b1d15a1c7afbd48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleYogaPants_Blue_BaseMap
+    second: {fileID: 2800000, guid: b22cfb1d66b51c142841e87e2e5bc05d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_FemaleYogaPants_Normal
+    second: {fileID: 2800000, guid: 4f6f0568e1a4ea447a0c8d9cfa0f6262, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Female_Brows_BaseMap
+    second: {fileID: 2800000, guid: 0e9419a317ba5ac4f988c8c265de707f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Female_Hair_01_BaseMap
+    second: {fileID: 2800000, guid: 3c7eb2bcdfe4ec94c8ae09fbbaf98c8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Female_Scalp_BaseMap
+    second: {fileID: 2800000, guid: bbf1f981060eb4a4c8fd285a21be463c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Female_Underwear_BaseMap
+    second: {fileID: 2800000, guid: db5dccdca7b69ec4eb19513c0b9ad109, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Female_Underwear_Normal
+    second: {fileID: 2800000, guid: bf55b23a0eee079489cb9d6d28c7cc6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Femalehair_03_BaseMap
+    second: {fileID: 2800000, guid: 4e5413278ab64bd4dbc5f17abaa18379, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_MaleFlaps_BaseMap
+    second: {fileID: 2800000, guid: 648285373b120354097bfeb216bf2830, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_MaleFlaps_Normal
+    second: {fileID: 2800000, guid: 2d3e3c648e4016f4c89ae3115fd923d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_MaleVansShoes_BaseMap
+    second: {fileID: 2800000, guid: 8d9435cd2cbd8fa4e90bb5da82801d80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_MaleVansShoes_Normal
+    second: {fileID: 2800000, guid: 10829055ee47f69469cf5346bb65d838, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Shirt_Blue_BaseMap
+    second: {fileID: 2800000, guid: 7960dec51f032c24c8df98733f0df2a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Shirt_Normal
+    second: {fileID: 2800000, guid: ac66ebcaf162fb14ca1efff6990f12f3, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

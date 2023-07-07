@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: ade086e12d4c6f4439973c793de577f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LEADERBOARDS_2
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2307
+        width: 20
+        height: 1682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da54331051fb1546bf4760f6369aa36
+      internalID: -1529972036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3444
+        width: 4
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2461867c44923c049b289d3e10022b38
+      internalID: -240749902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3458
+        width: 1414
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66941bbb63b3874a8c3c80db3efb50f
+      internalID: -1871006069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_14
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3495
+        width: 1340
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dbf59fac80b8845bcd82ed0d053f91
+      internalID: 423721180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_15
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 3093
+        width: 10
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d22cb03e755347b79f10b94fa7817
+      internalID: 949453391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1955
+        width: 1541
+        height: 1487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481f4363c972bd4c889dfe96b1029ca
+      internalID: 1891473746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_21
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2963
+        width: 368
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187e70a507c0c34abc86b8029086938
+      internalID: 1773284130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_35
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2676
+        width: 208
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029d4afa2a8eda4a86f901473336804
+      internalID: 2131327230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_36
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2715
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b5e48793d3ed46be574e65df78c76
+      internalID: 1594257350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_37
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2437
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937a53918f202b8428d1286989cda5a9
+      internalID: -1542917465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_38
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 146
+        width: 1596
+        height: 2443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aaf2ae854225e43bb2e6603db37ab2
+      internalID: 1758241127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_40
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1884
+        width: 439
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0d6c84e446744dafea0b563ce2ad7
+      internalID: -1035777933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_42
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1884
+        width: 84
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12028eb52eeb2a4a97fe7eac01ccfd6
+      internalID: -1854899196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1308
+        width: 346
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c857d643dc3fb4da6351c5f3f6f580
+      internalID: -1232850884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_44
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1367
+        width: 373
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135a4a7c6d409504d84fba4371788e5d
+      internalID: -227910227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_46
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1369
+        width: 348
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3de47c1d7719944b4428387c5dd257
+      internalID: -1412389998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_47
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1367
+        width: 357
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834f8e51b41ad9409249ba06ffc9ece
+      internalID: 533639382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_48
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1367
+        width: 348
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e828646a206f347ab5cd24c36e2c61
+      internalID: -523085567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_49
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1368
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf831c30a8c12a47a7c7b9d65494ff6
+      internalID: -359739871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_50
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 861
+        width: 356
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f306b2da31c81c94bab0377eeeaa0c9f
+      internalID: 650580833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_51
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 861
+        width: 356
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae5fd5b292f8044b6979d4192e9925
+      internalID: -2045152329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_52
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 861
+        width: 356
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4085e922ee53014409d882dd8d3b05f7
+      internalID: 447526466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_53
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 852
+        width: 367
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d193cf9456019439a94420d81af7c4
+      internalID: -1327466517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_54
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 852
+        width: 367
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797956bcae8862241992cd478e6007ca
+      internalID: 971897028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_55
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 916
+        width: 132
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a25853d94c2f4429a1a7198100b74f
+      internalID: 1466895122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_56
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 281
+        width: 464
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a10687e91bfe4f93b99f230e46aec
+      internalID: 897306686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_57
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 286
+        width: 435
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0ab99e1149854cb1796f626aa6221
+      internalID: -1111703608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_0
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 252
+        width: 430
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964e4bc149b46e4eac86df957f99f42
+      internalID: -534129926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEADERBOARDS_1
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2881
+        width: 1147
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932830def7a31d44a9f8321efa875027
+      internalID: -1776389753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 823e9724620e8b3419f99e6695ff3a89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LEADERBOARDS_50: 650580833
+      LEADERBOARDS_47: 533639382
+      LEADERBOARDS_34: 507677082
+      LEADERBOARDS_35: 2131327230
+      LEADERBOARDS_25: -1529971854
+      LEADERBOARDS_33: 1282733031
+      LEADERBOARDS_41: -1024446760
+      LEADERBOARDS_13: -1871006069
+      LEADERBOARDS_7: 1415362967
+      LEADERBOARDS_21: 1773284130
+      LEADERBOARDS_26: 1546172990
+      LEADERBOARDS_3: -473782101
+      LEADERBOARDS_9: 836954902
+      LEADERBOARDS_37: -1542917465
+      LEADERBOARDS_31: -1050643580
+      LEADERBOARDS_46: -1412389998
+      LEADERBOARDS_44: -227910227
+      LEADERBOARDS_42: -1854899196
+      LEADERBOARDS_10: -81867376
+      LEADERBOARDS_52: 447526466
+      LEADERBOARDS_48: -523085567
+      LEADERBOARDS_53: -1327466517
+      LEADERBOARDS_8: -1343867057
+      LEADERBOARDS_0: -534129926
+      LEADERBOARDS_43: -1232850884
+      LEADERBOARDS_29: 214014543
+      LEADERBOARDS_57: -1111703608
+      LEADERBOARDS_12: -240749902
+      LEADERBOARDS_54: 971897028
+      LEADERBOARDS_23: -1379763463
+      LEADERBOARDS_32: -534939878
+      LEADERBOARDS_1: -1776389753
+      LEADERBOARDS_18: 1632404355
+      LEADERBOARDS_22: -1072092443
+      LEADERBOARDS_20: 1743013883
+      LEADERBOARDS_19: -136519324
+      LEADERBOARDS_40: -1035777933
+      LEADERBOARDS_14: 423721180
+      LEADERBOARDS_38: 1758241127
+      LEADERBOARDS_30: 865583984
+      LEADERBOARDS_6: 197934170
+      LEADERBOARDS_27: 93499381
+      LEADERBOARDS_24: 231569800
+      LEADERBOARDS_49: -359739871
+      LEADERBOARDS_45: -1877440740
+      LEADERBOARDS_11: 1960894559
+      LEADERBOARDS_16: 1891473746
+      LEADERBOARDS_51: -2045152329
+      LEADERBOARDS_15: 949453391
+      LEADERBOARDS_2: -1529972036
+      LEADERBOARDS_28: 361215423
+      LEADERBOARDS_5: 829067575
+      LEADERBOARDS_39: 319669994
+      LEADERBOARDS_56: 897306686
+      LEADERBOARDS_36: 1594257350
+      LEADERBOARDS_55: 1466895122
+      LEADERBOARDS_17: -1017160920
+      LEADERBOARDS_4: 1063546722
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
