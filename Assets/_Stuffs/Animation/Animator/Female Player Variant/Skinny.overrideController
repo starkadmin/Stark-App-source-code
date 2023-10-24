@@ -7,13 +7,13 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Skinny
-  m_Controller: {fileID: 9100000, guid: 97567a2754fbd094da15e5199658f63e, type: 2}
+  m_Controller: {fileID: 9100000, guid: 2a6610cff3bf8bd41b5079e7997df325, type: 2}
   m_Clips:
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: 806aa23058d079a43821cc343422aa74, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: c8a5ea27add1dbc449e70f99146a4c7d, type: 3}
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: c4e8e552dca3fb84c8afeb73f9ce3a3b, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: ea3430350310ef14fb1ee32d58d81738, type: 3}
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: 238fd49ece449e34a9f7f7414ea2aec4, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: 35023487b44758541b5fa4a9210696e2, type: 3}
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: 8bc4b87ef8b92044ba3aafb39dc24ac1, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: d234bd7a3bec02447a44d1e61af40c07, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: fe715f5afc79648489d9f79351d664b9, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 79cbeea3d6fc34b4eab13163d3452155, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 9761b5e3678eb374c9e03cfdfc26f0bb, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: c3c13ee157a306e48a6a1d336c5fecfe, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 42454ac787c66074e91aa8ae4764cba1, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 0c2af0c587c07b24c834c9c4e9c67050, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 0ac473f1e0ab49241a52648699f6f281, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: ee56ffe8c65dcca4ca5c0248fc6f624c, type: 3}

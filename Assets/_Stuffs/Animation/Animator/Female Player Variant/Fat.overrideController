@@ -7,13 +7,13 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Fat
-  m_Controller: {fileID: 9100000, guid: 97567a2754fbd094da15e5199658f63e, type: 2}
+  m_Controller: {fileID: 9100000, guid: 2a6610cff3bf8bd41b5079e7997df325, type: 2}
   m_Clips:
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: 806aa23058d079a43821cc343422aa74, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: 27c20571b4d0ef643ab064c5e3ddde99, type: 3}
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: c4e8e552dca3fb84c8afeb73f9ce3a3b, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: 7f1b190df41701c4186ba81515af54ac, type: 3}
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: 238fd49ece449e34a9f7f7414ea2aec4, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: 44eaff0c03b83424a9759c60cd9802db, type: 3}
-  - m_OriginalClip: {fileID: 1827226128182048838, guid: 8bc4b87ef8b92044ba3aafb39dc24ac1, type: 3}
-    m_OverrideClip: {fileID: 1827226128182048838, guid: ae2c4e5d672457246bc838e94d3229c8, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: fe715f5afc79648489d9f79351d664b9, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: fe715f5afc79648489d9f79351d664b9, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 9761b5e3678eb374c9e03cfdfc26f0bb, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 9761b5e3678eb374c9e03cfdfc26f0bb, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 42454ac787c66074e91aa8ae4764cba1, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 42454ac787c66074e91aa8ae4764cba1, type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 0ac473f1e0ab49241a52648699f6f281, type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 0ac473f1e0ab49241a52648699f6f281, type: 3}
